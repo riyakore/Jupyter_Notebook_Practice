@@ -1,0 +1,26 @@
+This is the sample data for practice
+You need to skip this line
+Skip line 3
+Skip line 4
+Skip line 5
+Skip line 6
+1 0.02   
+2 0.04
+3 0.12
+4 0.15
+5 0.19
+6 0.22
+7 0.23
+8 0.26
+9 0.30
+10 0.32
+11 0.35
+12 0.37
+13 0.41
+14 0.43
+15 0.55
+16 0.57
+17 0.59
+18 0.61
+19 0.65
+20 0.68
