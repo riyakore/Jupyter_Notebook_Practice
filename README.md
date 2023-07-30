@@ -1,2 +1,2 @@
 # jupyter-notebook-practice
- To practice graphs
+ This repository is where I practice my Jupyter Notebook graphs
